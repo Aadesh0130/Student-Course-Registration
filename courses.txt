@@ -1,0 +1,6 @@
+The available courses are:-
+Python
+Data Structures
+Database Management System
+Computer Networks
+
